@@ -1,0 +1,2 @@
+uint32 idx
+geometry_msgs/PoseWithCovariance pose
